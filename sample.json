@@ -19,11 +19,6 @@
       "title": "University Android App",
       "technologies": ["Android Studio", "Java", "XML", "Material IO", "Firebase"],
       "description": "Led development of university app with UI design and integrated functionalities. Developed features like a resume builder, GPA calculator, and storage provider for documents. Improved user performance by 50% and achieved 10,000+ user downloads."
-    },
-    {
-      "title": "University Android App",
-      "technologies": ["Android Studio", "Java", "XML", "Material IO", "Firebase"],
-      "description": "Led development of university app with UI design and integrated functionalities. Developed features like a resume builder, GPA calculator, and storage provider for documents. Improved user performance by 50% and achieved 10,000+ user downloads."
     }
   ]
 }
