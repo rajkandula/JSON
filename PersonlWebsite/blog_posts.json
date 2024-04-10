@@ -1,0 +1,32 @@
+{
+  "blog_posts": [
+    {
+      "title": "The Evolution of AI: From Symbolic Logic to Deep Learning",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date_posted": "2024-04-09",
+      "description": "Explore the fascinating journey of artificial intelligence, from its early roots in symbolic logic to the advent of deep learning algorithms. Learn how key milestones and breakthroughs have shaped the AI landscape and paved the way for transformative applications in various domains.",
+      "link": "https://example.com/evolution-of-ai"
+    },
+    {
+      "title": "Ethical Considerations in AI Development",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date_posted": "2024-04-08",
+      "description": "Delve into the ethical complexities surrounding the development and deployment of artificial intelligence. Discover the challenges of bias, privacy, and accountability, and explore strategies for promoting responsible AI innovation.",
+      "link": "https://example.com/ethical-ai"
+    },
+    {
+      "title": "The Rise of Explainable AI (XAI)",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date_posted": "2024-04-07",
+      "description": "Learn about the growing importance of explainable AI (XAI) in enhancing transparency and trustworthiness in AI systems. Explore cutting-edge techniques for interpreting and explaining the decisions of complex machine learning models.",
+      "link": "https://example.com/explainable-ai"
+    },
+    {
+      "title": "Federated Learning: Collaborative AI Without Compromising Privacy",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date_posted": "2024-04-06",
+      "description": "Discover how federated learning enables organizations to train machine learning models on decentralized data sources while preserving user privacy. Explore its applications across diverse domains, from healthcare to finance, and its potential to drive innovation in the era of data privacy.",
+      "link": "https://example.com/federated-learning"
+    }
+  ]
+}
