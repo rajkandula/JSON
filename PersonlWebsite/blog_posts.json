@@ -5,10 +5,17 @@
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "date_posted": "2024-04-08",
       "description": "Delve into the ethical complexities surrounding the development and deployment of artificial intelligence. Discover the challenges of bias, privacy, and accountability, and explore strategies for promoting responsible AI innovation.",
-      "link": "https://example.com/ethical-ai"
+      "link": "https://www.ibm.com/think/ai-academy"
+    },
+     {
+      "title": "What IBM says about AI?",
+      "image": "https://unsplash.com/photos/ibm-logo-0mXw-dvuLok",
+      "date_posted": "2024-03-08",
+      "description": "AI is going to touch every aspect of our lives",
+      "link": "https://www.ibm.com/think/ai-academy"
     },
   
-   {
+    {
       "title": "What is Neural Network?",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "date_posted": "2022-12-16",
