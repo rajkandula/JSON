@@ -9,7 +9,7 @@
     {
       "title": "Solar Construction Management Website",
       "technologies": ["Express.js", "Node.js", "MongoDB", "HTML", "CSS", "JavaScript"],
-      "description": "Designed and implemented client-side and server-side architecture and led team of 5. Developed relational database concepts for seamless connection between teams.",
+      "description": "Designed and implemented client-side and server-side architecture and led a team of 5. Developed relational database concepts for seamless connection between teams.",
       "link": "https://github.com/rajkandula/Solar-Construction-Managment-Software"
     },
     {
@@ -23,6 +23,12 @@
       "technologies": ["Android Studio", "Java", "XML", "Material IO", "Firebase"],
       "description": "Led development of university app with UI design and integrated functionalities. Developed features like a resume builder, GPA calculator, and storage provider for documents. Improved user performance by 50% and achieved 10,000+ user downloads.",
       "link": "https://github.com/rajkandula/Android-Projects"
+    },
+    {
+      "title": "LexiGame",
+      "technologies": ["HTML, CSS, JavaScript, AWS, API Gateway, S3, AWS Amplify, Firebase"],
+      "description": "Word Puzzle Game Application that can help you learn English vocabulary. The game requires you to predict the correct word, which will sharpen your vocabulary skills. You can enjoy playing the game with music ",
+      "link": "https://main.dggcvluvmsbo4.amplifyapp.com/"
     }
   ]
 }
