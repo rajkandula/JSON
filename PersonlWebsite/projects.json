@@ -33,7 +33,7 @@
     {
       "title": "Project/Bible",
       "technologies": ["HTML, CSS, JavaScript, AWS, Firebase"],
-      "description": "Get free access to Bible software featuring Bible Reading, daily verses, community and account management, BibleGPT, games, an ad-free experience, and no subscriptions. We improve user experience based on feedback, and our future updates improve the bible reading page, allow offline access, offer multiple languages, provide audio versions, enable collaboration, expand the content library, and suggest personalized content using machine learning algorithms.",
+      "description": "Get free access to Bible software featuring Bible-Reading, daily verses, community and account management, BibleGPT, games, an ad-free experience, and with no subscriptions. We improve UX/UI design based on user feedback.",
       "link": "https://freebible-6aada.web.app/readbible.html"
     }
   ]
