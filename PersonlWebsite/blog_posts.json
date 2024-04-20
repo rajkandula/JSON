@@ -22,7 +22,17 @@
       "date_posted": "2022-12-16",
       "description": "How? our brains can effortlessly recognize alphabets/numbers, I tell you to write a program that takes a 28px X 28px grid with input 3 and predicts output single value 0-10, telling you what the digit is, Now learning the importance of Machine Learning, Neural Network (Input Layer, Hidden Layer, Output Layer)",
       "link": "https://youtu.be/aircAruvnKk?feature=shared"
+    },
+
+     {
+      "title": "Is It Possible to build futuristic Humanoid Intelligence Robot?",
+      "image": "https://raw.githubusercontent.com/rajkandula/JSON/main/PersonlWebsite/assets/chan_robo.jpeg",
+      "date_posted": "2022-12-16",
+      "description": "How to start building a robot? check Boston Dynamics NEW HUMANOID ROBOT + Figure + Chinas New AGI Robot + Tesla Robot + Nvidia (Project GROOT)  ",
+      "link": "https://youtu.be/sfKMkt5lq10?feature=shared"
     }
+
+
    
   ]
 }
