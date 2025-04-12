@@ -34,7 +34,7 @@
 
     {
   "title": "What is ROS (Robot Operating System)?",
-  "image": "https://github.com/rajkandula/JSON/blob/main/PersonlWebsite/assets/ros.png",
+  "image": "https://raw.githubusercontent.com/rajkandula/JSON/refs/heads/main/PersonlWebsite/assets/ros.png",
   "date_posted": "2024-04-08",
   "description": "ROS is an open-source framework for building robot applications. It provides tools, libraries, and conventions to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.",
   "link": "https://www.ros.org/"
