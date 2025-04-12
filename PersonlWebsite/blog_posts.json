@@ -30,6 +30,14 @@
       "date_posted": "2022-12-16",
       "description": "How? our brains can effortlessly recognize alphabets/numbers, I tell you to write a program that takes a 28px X 28px grid with input 3 and predicts output single value 0-10, telling you what the digit is, Now learning the importance of Machine Learning, Neural Network (Input Layer, Hidden Layer, Output Layer)",
       "link": "https://youtu.be/aircAruvnKk?feature=shared"
-    }
+    },
+
+    {
+  "title": "What is ROS (Robot Operating System)?",
+  "image": "https://github.com/rajkandula/JSON/blob/main/PersonlWebsite/assets/ros.png",
+  "date_posted": "2024-04-08",
+  "description": "ROS is an open-source framework for building robot applications. It provides tools, libraries, and conventions to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.",
+  "link": "https://www.ros.org/"
+}
   ]
 }
