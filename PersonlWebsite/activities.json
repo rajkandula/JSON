@@ -1,5 +1,10 @@
 {
   "activities": [
+     {
+      "title": "Solving a Rubik's Cube",
+      "description": "In this video, I solve a Rubik's Cube!",
+      "video_link": "https://youtu.be/DoRBrTVtMtE?feature=shared",
+    },
     {
       "title": "Solar Project Software Working Prototype",
       "description": "A demonstration of the working prototype for the solar project software.",
