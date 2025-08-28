@@ -1,5 +1,14 @@
 {
   "blog_posts": [
+     {
+      "title": "Learn about NVIDIA Jetson AGX Thor Developer Kit for Physical AI",
+      "image": "https://raw.githubusercontent.com/rajkandula/JSON/refs/heads/main/PersonlWebsite/nvidia.png",
+      "date_posted": "2025-07-24",
+      "description": "The NVIDIA Jetson AGX Thor Developer Kit is the ultimate developer resource for building the future of humanoid robotics and next-generation physical AI applications. Powered by the advanced NVIDIA Blackwell GPU and 128 GB of memory,  it delivers up to 2070 FP4 TFLOPS of AI performance—all within a 130 W power envelope. 
+                       Nvidia (Project GROOT)",
+      "link": "https://youtu.be/iYT2haVIgSM?feature=shared"
+    },
+
     {
       "title": "Is It Possible to build futuristic Humanoid Intelligence Robot?",
       "image": "https://raw.githubusercontent.com/rajkandula/JSON/main/PersonlWebsite/chan_img.png",
